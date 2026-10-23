@@ -1,0 +1,2074 @@
+{
+    "9A": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 2,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 3,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Birhanu"
+
+            },
+            {
+                "period": 5,
+                "subject": "Amharic",
+                "teacher": "Minda"
+            },
+            {
+                "period": 6,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 7,
+                "subject": "History",
+                "teacher": "Mesfin"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 4,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 5,
+                "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+            },
+            {
+                "period": 6,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 7,
+                "subject": "Health and Physical Education",
+                "teacher": "Tilahun"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 2,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 3,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 4,
+                "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+            },
+            {
+                "period": 5,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 7,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 3,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 4,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 5,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 6,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 7,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 2,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 3,
+                "subject": "Amharic",
+                "teacher": "Minda"
+            },
+            {
+                "period": 4,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 6,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 7,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            }
+        ]
+    },
+    "9B": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Amahric",
+                "teacher": "Minda"
+            },
+            {
+                "period": 2,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 3,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 6,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 7,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 3,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 4,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 5,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 6,
+                "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+            },
+            {
+                "period": 7,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                 "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+            },
+            {
+                "period": 2,
+                "subject": "Health and Physical Education",
+                "teacher": "Tilahun"
+            
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 6,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 7,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 2,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 5,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 6,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 7,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Amharic",
+                "teacher": "Minda"
+            },
+            {
+                "period": 2,
+                 "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 3,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 5,
+                 "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 6,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 7,
+               
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            }
+        ]
+    },
+    "9C": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 2,
+                "subject": "Amharic",
+                "teacher": "Minda"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 5,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 7,
+                "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Afaan Oromoo",
+                "teacher": "Yeshi"
+                
+            },
+            {
+                "period": 2,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+             {
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            
+            {
+                "period": 6,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 7,
+                "subject": "History",
+                "teacher": "Mesfin"
+            }
+           
+        ],
+        "Wednesday": [
+            {
+               "period": 1,
+                "subject": "Information Technology",
+                "teacher": "Adamu" 
+            },
+            
+            {
+                "period": 2,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 6,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            
+            {
+                "period": 7,
+                "subject": "Health and Physical Education",
+                "teacher": "Tilahun"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 2,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 3,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 4,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 5,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            
+            {
+                "period": 6,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 7,
+                "subject": "Economics",
+                "teacher": "Guta"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 2,
+                "subject": "Amharic",
+                "teacher": "Minda"
+            },
+            {
+                "period": 3,
+                 "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 5,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 6,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 7,
+                "subject": "English",
+                "teacher": "Geleta"
+            }
+        ]
+    },
+    "10A": {
+        "Monday": [
+             {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            
+            {
+                "period": 2,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 3,
+                "subject": "Amharic",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 4,
+                "subject": "Mathematics",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 5,
+                 "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 6,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 7,
+                "subject": "History",
+                "teacher": "Tesema"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 2,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 3,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 4,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 6,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 7,
+                "subject": "Geography",
+                "teacher": "Mesfin"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 2,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 3,
+                "subject": "Amharic",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 7,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 2,
+                "subject": "Information Technology",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 3,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 4,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 5,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 6,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 7,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 2,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 4,
+                "subject": "Information Technology",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 5,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 6,
+                "subject": "Health and Physical Education",
+                "teacher": "Tilahun"
+            },
+            {
+                "period": 7,
+                "subject": "Afaan Oromoo",
+                "teacher": "x"
+            }
+        ]
+    },
+    "10B": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+           
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 3,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 4,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 6,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 7,
+                "subject": "Economics",
+                "teacher": "kusa"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 2,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 3,
+                "subject": "Information Technology",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 7,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 2,
+                "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 4,
+                "subject": "Amharic",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 5,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 6,
+                "subject": "Civics",
+                "teacher": "Mulugeta"
+            },
+            {
+                "period": 7,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 2,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 3,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 4,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 5,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 6,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 7,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher":"chala"
+            },
+            {
+                "period": 2,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 3,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 4,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 5,
+                "subject": "Information Technology",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 6,
+                "subject": "Afaan Oromoo",
+                "teacher": "Teacher X"
+            },
+            {
+                "period": 7,
+                "subject": "Health and Physical Education",
+                "teacher": "Tilahun"
+            }
+        ]
+    },
+    "11A": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Girma Gad."
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 3,
+                "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 4,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 6,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Girma Gad."
+            },
+            {
+                "period": 4,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 6,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 7,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Girma Gad."
+            },
+            {
+                "period": 2,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 3,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 6,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 7,
+                "subject": "Mathematics",
+                "teacher": "Gima Gad."
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Gima Gad."
+            },
+            {
+                "period": 3,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 6,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 7,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Gima Gad."
+            },
+            {
+                "period": 2,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 3,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 4,
+                "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Fikadu"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 7,
+                "subject": "Agriculture",
+                "teacher": "Lemma"
+            }
+        ]
+    },
+    "11B": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 2,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 3,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 6,
+                "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 7,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 2,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 5,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 6,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 7,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 4,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 6,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 7,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 3,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 4,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 6,
+                "subject": "Biology",
+                "teacher": "Alemayehu"
+            },
+            {
+                "period": 7,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Alemayehu Tes."
+            },
+            {
+                "period": 2,
+                "subject": "Physics",
+                "teacher": "Teacher Y"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 4,
+                "subject": "Mathematics",
+                "teacher": "chala"
+            },
+            {
+                "period": 5,
+                "subject": "Afaan Oromoo",
+                "teacher": "Teacher X"
+            },
+            {
+                "period": 6,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ]
+    },
+    "11C": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 3,
+                "subject": "Afaan Oromoo",
+                "teacher": "X"
+            },
+            {
+                "period": 4,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 5,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 6,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 2,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 3,
+                "subject": "History",
+                "teacher": "Tafese"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 6,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 7,
+                "subject": "English",
+                "teacher": "Birhanu"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 2,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 3,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 4,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 6,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 7,
+                "subject": "English",
+                "teacher": "Birhanu"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 3,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 4,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 5,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 6,
+                "subject": "Economics",
+                "teacher": "kusa"
+            },
+            {
+                "period": 7,
+                "subject": "History",
+                "teacher": "Tesema"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "History",
+                "teacher": "Tesema"
+            },
+            {
+                "period": 2,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Dejene"
+            },
+            {
+                "period": 4,
+                "subject": "Geography",
+                "teacher": "Amanuel"
+            },
+            {
+                "period": 5,
+                "subject": "Afaan Oromoo",
+                "teacher": "x"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Birhanu"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ]
+    },
+    "12A": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 5,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 6,
+                "subject": "Afaan Oromoo",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 7,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 3,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 5,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 6,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 7,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 2,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 3,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 5,
+                "subject": "Afaan Oromoo",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 6,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 7,
+                "subject": "English",
+                "teacher": "Geleta"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 2,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 5,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 2,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 3,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 5,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 6,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 7,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            }
+        ]
+    },
+    "12B": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 3,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 4,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 5,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 6,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 7,
+                "subject": "Afaan Oromoo",
+                "teacher": "x"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 5,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            },
+            {
+                "period": 6,
+                "subject": "Agriculture",
+                "teacher": "Marga"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 3,
+                "subject": "Afaan Oromoo",
+                "teacher": "x"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 5,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 4,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 6,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 7,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Biology",
+                "teacher": "Thomas"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            },
+            {
+                "period": 3,
+                "subject": "Chemistry",
+                "teacher": "Eshetu"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 5,
+                "subject": "Physics",
+                "teacher": "Tarekegn"
+            },
+            {
+                "period": 6,
+                "subject": "English",
+                "teacher": "Geleta"
+            },
+            {
+                "period": 7,
+                "subject": "Mathematics",
+                "teacher": "Ermiyas"
+            }
+        ]
+    },
+    "12C": {
+        "Monday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 2,
+                "subject": "Afaan Oromoo",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 4,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 5,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 6,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            },
+            {
+                "period": 7,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            }
+        ],
+        "Tuesday": [
+            {
+                "period": 1,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 3,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 5,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 6,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Wednesday": [
+            {
+                "period": 1,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 3,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 5,
+                "subject": "Afaan Oromoo",
+                "teacher": "Tibabu"
+            },
+            {
+                "period": 6,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 7,
+                "subject": "Web Design",
+                "teacher": "Tigist"
+            }
+        ],
+        "Thursday": [
+            {
+                "period": 1,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 2,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 3,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 4,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 5,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 6,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 7,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            }
+        ],
+        "Friday": [
+            {
+                "period": 1,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 2,
+                "subject": "Mathematics",
+                "teacher": "E"
+            },
+            {
+                "period": 3,
+                "subject": "Geography",
+                "teacher": "Tumelisagn"
+            },
+            {
+                "period": 4,
+                "subject": "English",
+                "teacher": "Lemma"
+            },
+            {
+                "period": 5,
+                "subject": "History",
+                "teacher": "Mesfin"
+            },
+            {
+                "period": 6,
+                "subject": "Economics",
+                "teacher": "Guta"
+            },
+            {
+                "period": 7,
+                "subject": "Information Technology",
+                "teacher": "Adamu"
+            }
+        ]
+    }
+}
