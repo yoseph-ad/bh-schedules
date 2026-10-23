@@ -8,7 +8,7 @@ from flask import Flask
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "8853693876:AAHtYFQoYrlZaTdFwEPDOW9mnYIqkNMeP4U"
+TOKEN = "8853693876:AAHaGy41F184wgBWKVyrPyPIxgPjlphXFBo"
 
 # --- Lightweight Web Server for Render Health Check ---
 web_app = Flask(__name__)
