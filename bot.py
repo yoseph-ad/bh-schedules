@@ -9,6 +9,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKe
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
 TOKEN = "8853693876:AAHaGy41F184wgBWKVyrPyPIxgPjlphXFBo"
+ADMIN_ID = 1194080078   # ⚠️ REPLACE 123456789 WITH YOUR ACTUAL ID FROM @userinfobot
 
 # --- Lightweight Web Server for Render Health Check ---
 web_app = Flask(__name__)
@@ -152,7 +153,64 @@ def build_teacher_schedule(day_name: str, teacher_name: str):
     text += f"━━━━━━━━━━━━━━━━━━━━\n{len(day_classes)} classes today"
     return text
 
-# --- Registration Flow ---
+# --- Broadcast Command (Admin Only) ---
+async def broadcast_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if update.message.chat_id != ADMIN_ID:
+        return
+
+    conn = sqlite3.connect("school_users.db")
+    cursor = conn.cursor()
+    cursor.execute("SELECT telegram_id FROM students UNION SELECT telegram_id FROM teachers")
+    users = cursor.fetchall()
+    conn.close()
+
+    success_count = 0
+
+    # HANDLE IMAGE BROADCAST (Schedule Photo + Caption)
+    if update.message.photo:
+        caption = update.message.caption or ""
+        
+        # Only broadcast if the photo caption starts with /broadcast
+        if caption.startswith('/broadcast'):
+            clean_caption = caption.replace('/broadcast', '').strip()
+            photo_file_id = update.message.photo[-1].file_id
+
+            for (user_id,) in users:
+                try:
+                    await context.bot.send_photo(
+                        chat_id=user_id, 
+                        photo=photo_file_id, 
+                        caption=clean_caption, 
+                        parse_mode='Markdown'
+                    )
+                    success_count += 1
+                except Exception:
+                    pass
+                    
+            await update.message.reply_text(f"✅ Image broadcast sent to {success_count} users!")
+
+    # HANDLE TEXT BROADCAST
+    elif update.message.text:
+        clean_text = update.message.text.replace('/broadcast', '').strip()
+        
+        if not clean_text:
+            await update.message.reply_text("⚠️ Please provide a message. Example: /broadcast Hello students!")
+            return
+
+        for (user_id,) in users:
+            try:
+                await context.bot.send_message(
+                    chat_id=user_id, 
+                    text=clean_text, 
+                    parse_mode='Markdown'
+                )
+                success_count += 1
+            except Exception:
+                pass
+                
+        await update.message.reply_text(f"✅ Text broadcast sent to {success_count} users!")
+
+# --- Registration Flow & Core Handlers ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
         [InlineKeyboardButton("👨‍🎓 I am a Student", callback_data="role_student")],
@@ -163,6 +221,11 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = update.message.text
+    
+    # Don't process commands here
+    if text.startswith('/'):
+        return
+        
     state = context.user_data.get('state')
     
     if state == 'WAITING_FOR_STUDENT_NAME':
@@ -283,6 +346,10 @@ def main():
     time_to_run = datetime.time(hour=20, minute=0, tzinfo=tz)
     app.job_queue.run_daily(send_nightly_updates, time=time_to_run)
 
+    # Broadcast handlers (Text and Photos)
+    app.add_handler(CommandHandler("broadcast", broadcast_command))
+    app.add_handler(MessageHandler(filters.PHOTO, broadcast_command))
+    
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(button_handler))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
